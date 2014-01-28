@@ -1,7 +1,6 @@
-<% provide(:title, 'Home') %>
 <html>
   <head>
-     <title>Ruby on Rails Tutorial Sample App | <%= yield(:title) %></title>
+     <title>Ruby on Rails Tutorial Sample App | Home</title>
   </head>
 
   <body>
